@@ -1,32 +1,28 @@
 # Hi 👋, I'm Mitali Shinde
 
-### 💻 B.Tech CSE Student | Python Developer | Aspiring Data Science & AI/ML Engineer
+### 🎓 B.Tech CSE Student | Python & Django Learner | DSA Enthusiast
 
-I'm a Computer Science Engineering student passionate about building real-world applications and continuously improving my problem-solving skills.
+I'm a Computer Science Engineering student focused on strengthening my programming, problem-solving, and web development skills.
 
-- 🐍 Currently learning **Python, Django & Backend Development**
-- 📊 Exploring **Data Science, Machine Learning & AI**
-- 🧠 Practicing **Data Structures & Algorithms on LeetCode**
-- 🌐 Learning **Full Stack Web Development**
-- 🤖 Interested in **Generative AI & AI-powered applications**
-- 🌱 Preparing for **Open Source & GSoC**
-- 🎯 Goal: Build strong development and AI skills for software engineering opportunities
+- 🐍 Working with **Python**
+- 🌐 Learning **Django Web Development**
+- 💻 Building web pages with **HTML**
+- 🧠 Practicing **Data Structures & Algorithms**
+- 💡 Solving problems regularly on **LeetCode**
+- 🌱 Continuously learning and building projects
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### Languages
-`Python` `Java` `JavaScript` `HTML` `CSS` `SQL`
+### Programming Language
+`Python`
 
-### Backend
-`Django` `Flask` `FastAPI`
+### Web Development
+`Django` `HTML`
 
-### Data Science & AI
-`NumPy` `Pandas` `Matplotlib` `Machine Learning`
-
-### Databases
-`SQLite` `PostgreSQL`
+### Problem Solving
+`Data Structures & Algorithms` `LeetCode`
 
 ### Tools
 `Git` `GitHub` `VS Code`
@@ -36,24 +32,32 @@ I'm a Computer Science Engineering student passionate about building real-world 
 ## 🚀 Projects
 
 ### 🎓 Student Performance Management System
-A Django-based application for managing and analyzing student academic performance.
+A Django-based project for managing student academic information and performance.
 
 ### 🌐 Django Practice
-My Django learning repository containing hands-on practice with views, URLs, templates, models and backend concepts.
+A collection of my Django practice projects where I am learning views, URLs, templates and other Django concepts.
 
 ### 🧠 LeetCode Practice
-A collection of my Data Structures & Algorithms solutions from LeetCode.
+A collection of my DSA and problem-solving solutions from LeetCode.
 
 ---
 
 ## 📚 Currently Learning
 
+- Django Web Development
 - Data Structures & Algorithms
-- Python Backend Development
-- Data Science & Machine Learning
-- React & Full Stack Development
-- Generative AI
-- Open Source Development
+- Python Problem Solving
+- Git & GitHub
+
+---
+
+## 🎯 Future Goals
+
+- Learn JavaScript and React
+- Learn Python Backend Development in depth
+- Explore Data Science & AI/ML
+- Contribute to Open Source
+- Prepare for GSoC
 
 ---
 
@@ -63,4 +67,4 @@ A collection of my Data Structures & Algorithms solutions from LeetCode.
 
 ---
 
-⭐ **Learning every day, building projects and improving one commit at a time.**
+⭐ Learning, coding and improving one step at a time.
